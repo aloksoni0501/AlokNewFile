@@ -25,5 +25,5 @@ driver.find_element_by_xpath("//button[@id='u_0_15']").click()
 
 #assert "Facebook – log in or sign up" in title
 #driver.maximize_window()
-
+driver.close()
 driver.quit()

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b52c808a-a829-432c-b972-52f6bef84df9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SampleTest1/GoogleSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/SampleTest1/GoogleSearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="12" lean-forward="true" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="340">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -24,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SampleTest1/GoogleSearch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -51,8 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py" />
         <option value="$PROJECT_DIR$/SampleTest1/GoogleSearch.py" />
+        <option value="$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py" />
       </list>
     </option>
   </component>
@@ -229,7 +230,28 @@
       <option name="project" value="LOCAL" />
       <updated>1564574102900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1564574485241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564574485242</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1564574657279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564574657279</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first1">
+      <created>1564574847768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564574847768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -257,7 +279,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hiiii alok" />
-    <option name="LAST_COMMIT_MESSAGE" value="hiiii alok" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="first1" />
+    <option name="LAST_COMMIT_MESSAGE" value="first1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py">
@@ -267,20 +291,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py">
+    <entry file="file://$PROJECT_DIR$/SampleTest1/GoogleSearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="true" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SampleTest1/GoogleSearch.py">
+    <entry file="file://$PROJECT_DIR$/com/qa/selenium/WebDriverBasics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="340">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
