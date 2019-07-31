@@ -12,4 +12,4 @@ time.sleep(4)
 
 driver.find_element_by_name("btnK").click()
 driver.close()
-#driver.quit()
+driver.quit()
